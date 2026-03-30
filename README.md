@@ -1,4 +1,4 @@
-# Tileworld（MASON）智能体项目
+# Tileworld
 
 基于 MASON 的 Tileworld 仿真：阶段 1/2 单双智能体策略、阶段 4 六智能体通信与协作、无头基准测试与验收清单。
 
