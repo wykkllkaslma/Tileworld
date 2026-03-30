@@ -1,0 +1,12 @@
+--- Phase4 communication ---
+  seed=1001  team_reward=594
+  seed=2002  team_reward=676
+  seed=3003  team_reward=800
+  seed=4004  team_reward=601
+  seed=5005  team_reward=796
+  seed=6006  team_reward=800
+  seed=7007  team_reward=713
+  seed=8008  team_reward=681
+  seed=9009  team_reward=786
+  seed=10010  team_reward=581
+  MEAN=702.80  VAR(pop)=7283.76  STD=85.34  MIN=581  MAX=800  CV=0.121
