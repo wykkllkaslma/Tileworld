@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TWGUI",
+            "request": "launch",
+            "mainClass": "tileworld.TWGUI",
+            "projectName": "Tileworld"
+        },
+        {
+            "type": "java",
+            "name": "Run Tileworld",
+            "request": "launch",
+            "mainClass": "tileworld.SimpleAgent",
+            "projectName": "Tileworld",
+            "vmArgs": "-Djava.library.path=\"C:/Program Files/Java/Java3D/1.5.1/bin\""
+        }
+    ]
+}

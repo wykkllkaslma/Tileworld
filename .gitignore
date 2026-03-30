@@ -1,0 +1,12 @@
+# Build
+bin/
+out/
+*.class
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.Desktop.ini
+Thumbs.db
