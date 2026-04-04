@@ -3,6 +3,18 @@ bin/
 out/
 *.class
 
+# Local docs and notes
+PROJECT环境说明.md
+TEAM_GUARDRAILS.md
+项目执行计划.md
+项目需求清单.md
+markdown_output/
+logs/
+phase4_*.txt
+res_wy.txt
+run_peer_benchmark.ps1
+sources_peer.txt
+
 # IDE
 .idea/
 *.iml

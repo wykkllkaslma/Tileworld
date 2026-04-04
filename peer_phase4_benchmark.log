@@ -1,0 +1,46 @@
+﻿=== Phase4 Communication A/B on Config One ===
+World: 50x50 lifeTime=100 agents=6
+--- Phase4 no-communication ---
+  seed=1001  team_reward=171
+  seed=2002  team_reward=96
+  seed=3003  team_reward=218
+  seed=4004  team_reward=92
+  seed=5005  team_reward=192
+  seed=6006  team_reward=195
+  seed=7007  team_reward=275
+  seed=8008  team_reward=108
+  seed=9009  team_reward=195
+  seed=10010  team_reward=162
+  MEAN=170.40  VAR(pop)=3053.04  STD=55.25  MIN=92  MAX=275  CV=0.324
+--- Phase4 communication ---
+  seed=1001  team_reward=291
+  seed=2002  team_reward=342
+  seed=3003  team_reward=421
+  seed=4004  team_reward=290
+  seed=5005  team_reward=378
+  seed=6006  team_reward=344
+  seed=7007  team_reward=405
+  seed=8008  team_reward=305
+  seed=9009  team_reward=383
+  seed=10010  team_reward=425
+  MEAN=358.40  VAR(pop)=2406.44  STD=49.06  MIN=290  MAX=425  CV=0.137
+=== Delta (communication - no-communication) ===
+  Mean delta=188.00
+  Std delta=-6.20
+  Communication improves mean team reward on this seed set.
+
+=== Phase4 Communication A/B on Config Two ===
+World: 80x80 lifeTime=30 agents=6
+--- Phase4 no-communication ---
+  seed=1001  team_reward=365
+  seed=2002  team_reward=313
+  seed=3003  team_reward=193
+  seed=4004  team_reward=156
+  seed=5005  team_reward=186
+  seed=6006  team_reward=171
+  seed=7007  team_reward=185
+  seed=8008  team_reward=189
+  seed=9009  team_reward=205
+  seed=10010  team_reward=350
+  MEAN=231.30  VAR(pop)=5609.01  STD=74.89  MIN=156  MAX=365  CV=0.324
+--- Phase4 communication ---
